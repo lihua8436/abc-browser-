@@ -13,13 +13,16 @@
 
 🔗🗺️[官网导航（launch page)](https://abc-browser.org)
 🔗🗺️[永久域名（official website)](https://abc-browser.com)
-————————————————
+
 🔗⏬[iOS大陆用户下载教程（iOS guide)](https://github.com/pandao/editor.md "Heading link")
+
 🔗⏬[安卓安装包.apk](https://github.com/pandao/editor.md "Heading link")
+
 🔗⏬[Windows桌面版.exe](https://github.com/pandao/editor.md "Heading link")
+
 🔗🏠官方网站链接1
 🔗🏠官方网站链接2
-————————————————
+
 🔗🧧免费福利
 🎁 邀请一人注册免费一周
 🎁 邀请3人注册免费一月
