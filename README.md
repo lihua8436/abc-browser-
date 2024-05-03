@@ -12,7 +12,7 @@
 🔗🗺️[官网导航（launch page)](https://abc-browser.org)
 🔗🗺️[永久域名（official website)](https://abc-browser.com)
 
-🔗⏬[iOS大陆用户下载教程（iOS guide)](https://github.com/pandao/editor.md "Heading link")
+🔗⏬[iOS大陆用户下载教程（iOS guide)](https://abc-browser.com/ios-guide)
 
 🔗⏬[安卓安装包.apk](https://github.com/pandao/editor.md "Heading link")
 
